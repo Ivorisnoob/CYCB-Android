@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CYCB Chat</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email (optional)</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message...</string>
+    <string name="no_chats">No chats yet</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="logout">Logout</string>
+</resources>
